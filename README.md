@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/71957674/174759292-42a51112-142e-427e-a577-0cae9e65bc31.png"  height="29px" align="center" /> 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/71957674/174759292-42a51112-142e-427e-a577-0cae9e65bc31.png"  /> 
+</div> 
+
 
 ### Table of Contents
 
