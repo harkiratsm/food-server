@@ -1,0 +1,17 @@
+version: '3'
+services:
+  food-server:
+    build: .
+    environment:
+      - PORT=3000
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=harkirat
+      - MONGO_INITDB_ROOT_PASSWORD=harkirat
+    volumes:
+      - mongo-db:/data/db
+volumes:
+  mongodb:
