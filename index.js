@@ -15,7 +15,7 @@ app.use('/order',orderRoute);
 // ----------------------
 app.get('/',(req,res)=>{
     res.send("Welcome to My Server");
-
+    console.log("Loading...");
 })
 
 app.listen(PORT,(error)=>{
