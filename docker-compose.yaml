@@ -8,6 +8,7 @@ services:
      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
   food-server:
     build: .
+    image: harkiratsm/food-server
     environment:
       - PORT=3000
     depends_on:
