@@ -1,5 +1,6 @@
 ## Table of Contents
 - [Dockerfile & Docker Compose](#docs)
+<!-- - [Docker Compose explained](#exp) -->
 - [Running in Production](#prod)
 
 <a id="docs"></a>
@@ -15,6 +16,12 @@ For more details head over to official documentation
 - [Docker-Compose](https://docs.docker.com/compose/)
 & also can checkout my blog [here](https://community.ops.io/harkiratsm/docker-simplified-4bce)
 
+<!-- <a id="exp"></a>
+
+### Docker Compose Explained -->
+
+
+
 <a id="prod"></a>
 
 ### Running your server in Production 
@@ -22,10 +29,12 @@ For more details head over to official documentation
 1) For running your app in ```prod``` you can use AWS , GCP , AZURE. For this I used ```DigitalOcean``` but you choose anyone of these CSP's.
 
 2) Next step is to create a new project.
-![first](https://github.com/harkiratsm/food-server/tree/main/assets/img/1.PNG)
+
+![first](https://github.com/harkiratsm/food-server/tree/main/assets/img/1.PNG?raw=true)
 
 Head over to create a new Droplet for your project.
-![second](https://github.com/harkiratsm/food-server/tree/main/assets/img/2.PNG)
+
+![second](https://github.com/harkiratsm/food-server/tree/main/assets/img/2.PNG?raw=true)
 
 Choose your options ,for this I used following settings 
 - Ubuntu (20.04 LTS x64)

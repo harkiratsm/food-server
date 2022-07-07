@@ -1,6 +1,6 @@
-<div>
- ![Food-removebg-preview](https://user-images.githubusercontent.com/71957674/177105008-78f51b27-8845-4df1-b197-24991d8f4291.png)
-</div> 
+<p align="center">
+  <img src="https://github.com/harkiratsm/food-server/tree/main/assets/img/header.png?raw=true" alt="Logo">
+</p>
 
 
 ### Table of Contents
