@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/harkiratsm/food-server/tree/main/assets/img/header.png?raw=true" alt="Logo">
+  <img src="https://raw.githubusercontent.com/harkiratsm/food-server/main/assets/img/header.png\" alt="Logo">
 </p>
 
 
