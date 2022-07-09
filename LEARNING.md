@@ -16,9 +16,11 @@ For more details head over to official documentation
 - [Docker-Compose](https://docs.docker.com/compose/)
 & also can checkout my blog [here](https://community.ops.io/harkiratsm/docker-simplified-4bce)
 
-<!-- <a id="exp"></a>
+<a id="exp"></a>
 
-### Docker Compose Explained -->
+#### Docker Compose Explained
+
+<img src="assets/img/docker-compose-exp.PNG" />
 
 
 
@@ -30,11 +32,11 @@ For more details head over to official documentation
 
 2) Next step is to create a new project.
 
-![first](https://github.com/harkiratsm/food-server/tree/main/assets/img/1.PNG?raw=true)
+<img src="assets/img/1.PNG" />
 
 Head over to create a new Droplet for your project.
 
-![second](https://github.com/harkiratsm/food-server/tree/main/assets/img/2.PNG?raw=true)
+<img src="assets/img/2.PNG" />
 
 Choose your options ,for this I used following settings 
 - Ubuntu (20.04 LTS x64)
