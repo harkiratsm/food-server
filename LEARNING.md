@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Dockerfile & Docker Compose](#docs)
-<!-- - [Docker Compose explained](#exp) -->
+- [Docker Compose explained](#exp)
 - [Running in Production](#prod)
 
 <a id="docs"></a>
@@ -20,8 +20,7 @@ For more details head over to official documentation
 
 #### Docker Compose Explained
 
-<img src="assets/img/docker-compose-exp.PNG" />
-
+<img src="assets/img/docker-compose-exp.png" />
 
 
 <a id="prod"></a>
