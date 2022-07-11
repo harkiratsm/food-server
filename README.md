@@ -1,4 +1,4 @@
-![food-server](https://socialify.git.ci/harkiratsm/food-server/image?description=1&descriptionEditable=REST%20API%20aka%20food-server&font=Inter&language=1&owner=1&pattern=Brick%20Wall&theme=Light)
+![food-server](https://socialify.git.ci/harkiratsm/food-server/image?description=1&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Light)
 <p align="center">
   <img src="https://img.shields.io/github/license/harkiratsm/food-server" />
   <img src="https://img.shields.io/badge/Author-harkiratsm-orange" />
