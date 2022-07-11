@@ -1,15 +1,15 @@
-### FAQ 
-#### 💡 Why did I build this?
+# FAQ 
+## 💡 Why did I build this?
 I built this project since I was experimenting with a new tech stack and was impressed by the results of constructing a real-world project. Additionally, as I am interested in DevOps, I also incorporated some DevOps tools into this project.
 
-#### Question: What is Docker? 
+## Question: What is Docker? 
 **Answer:** Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
 You can also checkout my blog on [Docker Simplified](https://community.ops.io/harkiratsm/docker-simplified-4bce).
 
-##### Question: Why do you used docker?
+## Question: Why do you used docker?
 **Answer:** Using Docker can help you ship your code faster, gives you control over your applications. You can deploy applications on containers that make it easier for them to be deployed, scaled, perform rollbacks and identify issues. I am learning about DevOps so whatsoever I am learning I applying those technologies to my project also. 
 
-##### Question: What does my code sample?
+## Question: What does my code sample?
 **Answer:**  I have developed a REST API that I am going to serve for frontend i.e. food-client. At the moment, this API can handle restaurant, order, and image requests.
 
 I built a REST API with Express.js, using MongoDB as a database to store the data, containerized my Nodejs app with Docker, and also used Nginx to load balance API requests.
@@ -20,13 +20,13 @@ I built this project since I was experimenting with a new tech stack and was imp
 
 I'm also going to add extra functionality, such using Stripe, user authentication.
 
-##### Question: Why to use Nginx ?
+## Question: Why to use Nginx ?
 **Answer:** Nginx is what I've used to load balance the API calls for this Node.js application.
 
-##### Questions: What about running it in Production?
+## Questions: What about running it in Production?
 **Answer:** Want to run your Node.js application in production? I've covered how to achieve it [here](https://github.com/harkiratsm/food-server/blob/main/LEARNING.md#prod).
 
-##### Question: What you have learnt when you created this code sample ?
+## Question: What you have learnt when you created this code sample ?
 **Answer:** I was exploring with a new tech stack when I came across express.js, so I chose to use it to create an API. I used MongoDB as the database because it is NoSQL & easy. I also learned how to utilize express.js to create a Schema/Model and routes for specific requests. I gained knowledge of the CORS, middleware, and connecting to your local or MongoDB Atlas database.
 
 I also learned how to utilize Postman & used it to test my API endpoints.
