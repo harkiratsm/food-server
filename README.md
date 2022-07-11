@@ -2,9 +2,18 @@
 <p align="center">
   <img src="https://img.shields.io/github/license/harkiratsm/food-server" />
   <img src="https://img.shields.io/badge/Author-harkiratsm-orange" />
-  <img src="https://img.shields.io/docker/pulls/harkiratsm/food-server.svg" />
+  <a href="https://hub.docker.com/repository/docker/harkiratsm/food-server">
+    <img src="https://img.shields.io/docker/pulls/harkiratsm/food-server.svg" />
+  </a>
+  <a href="https://github.com/harkiratsm/food-server/blob/main/LEARNING.md">
+    <img src="https://img.shields.io/badge/-Learning.md-brightgreen"/>
+  </a>
+  <a href="https://github.com/harkiratsm/food-server/blob/main/Faq.md">
+    <img src="https://img.shields.io/badge/-FAQ.md-blue">
+  </a>
   
 </p>
+  
 
 ## 💥 Introduction
 
