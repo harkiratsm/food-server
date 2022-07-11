@@ -31,6 +31,7 @@ I built a REST API with Express.js, using MongoDB as a database to store the dat
 
 
 
+<a id="tech-stack"></a>
 
 ## ⚙️ Tech Stack
 
@@ -38,6 +39,8 @@ The technologies I used to built this app.
 
 - Nodejs
 - Expressjs
+
+<a id="install-step"></a>
 
 ## 🛠️ Installation Steps
 
@@ -70,6 +73,8 @@ cd food-server
 
 🚀 You are all set to go
 
+<a id="built-with"></a>
+
 ## 💻 Built With
 
 1. Expressjs - Rest API
@@ -77,6 +82,8 @@ cd food-server
 3. Nodejs
 4. Docker 
 5. Nginx - Load balancing api calls
+
+<a id="requires"></a>
 
 ## 🙋🏻‍♂️ Requirements 
 
