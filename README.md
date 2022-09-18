@@ -71,7 +71,7 @@ cd food-server
 
 4. For Production [here](https://github.com/harkiratsm/food-server/blob/main/LEARNING.md#prod).
 
-🚀 You are all set to go
+🚀 You are all set to go.
 
 <a id="built-with"></a>
 
